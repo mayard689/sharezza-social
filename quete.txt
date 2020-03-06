@@ -1,3 +1,5 @@
+  101  git clone "https://github.com/mayard689/sharezza-social.git"
+  102  cd sharezza-social
   103  git add index.html
   104  git status
   105  git commit index.html
