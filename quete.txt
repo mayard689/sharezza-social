@@ -1,3 +1,4 @@
+  103  git add index.html
   104  git status
   105  git commit index.html
   106  git status
