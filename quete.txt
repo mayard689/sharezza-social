@@ -1,0 +1,4 @@
+  104  git status
+  105  git commit index.html
+  106  git status
+  107  git push origin master
